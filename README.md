@@ -1,2 +1,5 @@
 # navbar-city
-here is a series of navbars I've made for practice. 
+Here is a series of navbars I've made for practice.
+
+Codepen:
+https://codepen.io/collection/NqxRdy
